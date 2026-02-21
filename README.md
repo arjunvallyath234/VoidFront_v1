@@ -12,7 +12,10 @@ Immersive Robotics Course Project – Unity Game
 
 Sci-Fi Drone Warfare is a Unity-based drone combat game developed as part of an Immersive Robotics course project. An unknown portal opens above a futuristic city. From it emerge an alien spider robot and dozens of hostile drones. The player controls a combat-ready sci-fi drone and must eliminate the swarm and defeat the spider boss to close the invasion. This project combines concepts from robotics, control systems, AI, and interactive simulation within a game development framework.
 
+
+-----------------------------------------------------------------------------------------------------------------------------------
 🎮 Game Concept:
+-----------------------------------------------------------------------------------------------------------------------------------
 
 🌌 A mysterious portal opens in the sky
 
@@ -25,7 +28,11 @@ Sci-Fi Drone Warfare is a Unity-based drone combat game developed as part of an 
 💥 Objective: Destroy the boss spider robot
 
 
+-----------------------------------------------------------------------------------------------------------------------------------
+
 🛠 Technical Features
+
+-----------------------------------------------------------------------------------------------------------------------------------
 
 -Physics-based drone controller (custom flight mechanics)
 
@@ -46,7 +53,12 @@ Sci-Fi Drone Warfare is a Unity-based drone combat game developed as part of an 
 -Cinematic gameplay environment.
 
 
-📜 Third-Party Assets & Credits:
+-----------------------------------------------------------------------------------------------------------------------------------
+
+📜 Third-Party Assets & Credits
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
 This project uses third-party assets under their respective licenses.
 
 🎵 Audio
@@ -59,7 +71,11 @@ Gun sound effects – Pixabay https://pixabay.com/sound-effects/search/gun/
 Music and audio used under YouTube Studio Audio Library terms.
 
 
+-----------------------------------------------------------------------------------------------------------------------------------
+
 🏙 Environment & 3D Assets (Unity Asset Store)
+
+-----------------------------------------------------------------------------------------------------------------------------------
 
 -Demo City by Versatile Studio (Mobile Friendly)
 https://assetstore.unity.com/packages/3d/environments/urban/demo-city-by-versatile-studio-mobile-friendly-269772
