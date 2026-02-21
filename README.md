@@ -10,37 +10,51 @@ Immersive Robotics Course Project – Unity Game
 
 📌 Overview
 
-Sci-Fi Drone Warfare is a Unity-based drone combat game developed as part of an Immersive Robotics course project.
-
-An unknown portal opens above a futuristic city. From it emerge an alien spider robot and dozens of hostile drones. The player controls a combat-ready sci-fi drone and must eliminate the swarm and defeat the spider boss to close the invasion.
-
-This project combines concepts from robotics, control systems, AI, and interactive simulation within a game development framework.
+Sci-Fi Drone Warfare is a Unity-based drone combat game developed as part of an Immersive Robotics course project. An unknown portal opens above a futuristic city. From it emerge an alien spider robot and dozens of hostile drones. The player controls a combat-ready sci-fi drone and must eliminate the swarm and defeat the spider boss to close the invasion. This project combines concepts from robotics, control systems, AI, and interactive simulation within a game development framework.
 
 🎮 Game Concept:
+
 🌌 A mysterious portal opens in the sky
+
 🕷 Alien spider robot boss appears
+
 🤖 Multiple hostile drones defend the boss
+
 🚁 Player controls a futuristic drone
+
 💥 Objective: Destroy the boss spider robot
 
+
 🛠 Technical Features
--Physics-based drone controller (custom flight mechanics),
--Mouse-based pitch & yaw control,
--Thrust-based movement system,
--Enemy AI drone behavior,
--Boss enemy logic and attack system,
--Particle-based VFX (explosions, bullets, fire),
--Health and damage system,
--Scene transitions & intro sequence,
+
+-Physics-based drone controller (custom flight mechanics)
+
+-Mouse-based pitch & yaw control
+
+-Thrust-based movement system
+
+-Enemy AI drone behavior
+
+-Boss enemy logic and attack system
+
+-Particle-based VFX (explosions, bullets, fire)
+
+-Health and damage system
+
+-Scene transitions & intro sequence
+
 -Cinematic gameplay environment.
 
 
-📜 Third-Party Assets & Credits
+📜 Third-Party Assets & Credits:
 This project uses third-party assets under their respective licenses.
 
 🎵 Audio
+
 Gun sound effects – Pixabay https://pixabay.com/sound-effects/search/gun/
+
 “Vulcan Machine Gun Series” – YouTube Audio Library
+
 🎵 Background Music: "Cinematic Symphony of Steel" – Jimena Contreras; Music provided by YouTube Audio Library (YouTube Studio).
 Music and audio used under YouTube Studio Audio Library terms.
 
