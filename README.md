@@ -91,5 +91,10 @@ https://assetstore.unity.com/packages/3d/vehicles/land/american-sedans-taxi-poli
 
 All assets are used under the Unity Asset Store License Agreement.
 
-⬇ Download:
+-----------------------------------------------------------------------------------------------------------------------------------
+
+⬇ Download
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
 The playable build of the game is available in the Releases section of this repository.
