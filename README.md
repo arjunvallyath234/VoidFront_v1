@@ -10,7 +10,7 @@ Immersive Robotics Course Project – Unity Game
 
 📌 Overview
 
-Sci-Fi Drone Warfare is a Unity-based drone combat game developed as part of an Immersive Robotics course project. An unknown portal opens above a futuristic city. From it emerge an alien spider robot and dozens of hostile drones. The player controls a combat-ready sci-fi drone and must eliminate the swarm and defeat the spider boss to close the invasion. This project combines concepts from robotics, control systems, AI, and interactive simulation within a game development framework.
+Sci-Fi Drone Warfare is a Unity-based drone combat game developed as part of an Immersive Robotics course project. Team members: Arjun Vallyath Anil, Jaime Morales. Game story: An unknown portal opens above a futuristic city. From it emerge an alien spider robot and dozens of hostile drones. The player controls a combat-ready sci-fi drone and must eliminate the swarm and defeat the spider boss to close the invasion. This project combines concepts from robotics, control systems, AI, and interactive simulation within a game development framework.
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
@@ -90,6 +90,14 @@ https://assetstore.unity.com/packages/vfx/particles/fire-explosions/free-fire-vf
 https://assetstore.unity.com/packages/3d/vehicles/land/american-sedans-taxi-police-classic-317900
 
 All assets are used under the Unity Asset Store License Agreement.
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+🎬 Intro Cinematic
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+The intro cinematic was generated using Google Gemini and integrated into the Unity project.
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
